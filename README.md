@@ -25,3 +25,6 @@ Computer Science Student @ UNOM
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
+
+### Profile Views
+![](https://komarev.com/ghpvc/?username=Tinuanandh)
