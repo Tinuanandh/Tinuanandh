@@ -17,6 +17,11 @@ Computer Science Student @ UNOM
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
 
+### Github streak
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Tinuanandh&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
