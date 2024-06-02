@@ -30,3 +30,7 @@ Computer Science Student @ UNOM
 
 ### Profile Views
 ![](https://komarev.com/ghpvc/?username=Tinuanandh)
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+</div>
