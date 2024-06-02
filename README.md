@@ -24,6 +24,9 @@ Computer Science Student @ UNOM
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinuanandh&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
+![Tinuanandh GitHub stats](https://github-readme-stats.vercel.app/api?username=Tinuanandh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+
+
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
