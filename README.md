@@ -30,6 +30,6 @@ Computer Science Student @ UNOM
 ![](https://komarev.com/ghpvc/?username=Tinuanandh)
 
 
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Tinuanandh&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinuanandh&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 
