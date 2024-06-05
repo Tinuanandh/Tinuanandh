@@ -30,9 +30,8 @@ Computer Science Student @ UNOM
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
-### Profile Views
-![](https://komarev.com/ghpvc/?username=Tinuanandh)
-
-
 ##### Secret Mesg
  01001000 01100101 00101110 00101110 00100000 01101000 01100101 00101110 00101110 01101010 01110101 01110011 01110100 00100000 01110000 01100001 01110011 01110011 01101001 01101110 01100111 00100000 01110100 01101001 01101101 01100101
+
+### Profile Views
+![](https://komarev.com/ghpvc/?username=Tinuanandh)
